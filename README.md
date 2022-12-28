@@ -6,4 +6,4 @@
 - 📫 Reach me at progyan.das@iitgn.ac.in, visit my website (progyan.me), or text me at +91 60098 84968!
 - ⚡ Fun fact: I'm visiting Caltech in the coming summer as a research intern under Prof. Ashish Mahabal, as part of their SURF programme! 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=plugyawn)
