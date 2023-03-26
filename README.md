@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my slice of Github!
+
+Here's a little bit about me. For more, please reach me at my website, at https://progyan.me.
+
 - 🌱 I’m currently learning multi-output Gaussian Process regressors for an upcoming paper with Prof. Nipun Batra at IIT Gandhinagar, in neural radiance fields, and generative models.
 - 🔭 I’m currently working on portfolio optimization with Mudrex Capital, a young hedge-fund, and with Dr. Navneet Bung at TCS Research, for generating peptide sequences with antimicrobial properties.
 - 👯 I’m looking to collaborate on projects on computer vision, natural language processing, finance, and (especially) probabilistic machine learning.
