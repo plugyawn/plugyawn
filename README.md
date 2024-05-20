@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi, I'm Progyan!
 
-Welcome to my slice of Github!
+I am a Machine Learning researcher, and I'll be joining as an Applied Scientist at Microsoft Bangalore soon! You may know me as `plugyawn`, which is what I identify as online. Either way, this is my slice of the internet, so here’s a little bit about me.
 
-Here's a little bit about me. For more, please reach me at my website, at https://progyan.me.
+I’m intrigued by Theoretical Deep Learning, Probabilistic Machine Learning and Differential Equations (especially in Operator Learning). My research is aligned along those fields.
 
-- 🌱 I’m currently learning multi-output Gaussian Process regressors for an upcoming paper with Prof. Nipun Batra at IIT Gandhinagar, in neural radiance fields, and generative models.
-- 🔭 I’m currently working on portfolio optimization with Mudrex Capital, a young hedge-fund, and with Dr. Navneet Bung at TCS Research, for generating peptide sequences with antimicrobial properties.
-- 👯 I’m looking to collaborate on projects on computer vision, natural language processing, finance, and (especially) probabilistic machine learning.
-- 📫 Reach me at progyan.das@iitgn.ac.in, visit my website (progyan.me), or text me at +91 60098 84968!
-- ⚡ Fun fact: I'm visiting Caltech in the coming summer as a research intern under Prof. Ashish Mahabal, as part of their SURF programme! 
+I’ve been part of the Google Summer of Code, I am a Cargill Global Scholar, and I’ve also serving as the Overall Technical Secretary at IIT Gandhinagar, overseeing all technical activities that occur here at the student level. I also spent a wonderful summer in sunny California as a Caltech SURF fellow in the summer of 2023.
+
+If you see me on the streets of Bangalore some time, do say hi – first chai’s on me.
 
 ![](https://komarev.com/ghpvc/?username=plugyawn)
