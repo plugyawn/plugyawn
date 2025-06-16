@@ -1,3 +1,3 @@
-Welcome to the where my ideas come to rest.
+Welcome to where my ideas come to rest.
 
 ![](https://komarev.com/ghpvc/?username=plugyawn)
